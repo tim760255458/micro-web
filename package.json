@@ -1,0 +1,15 @@
+{
+  "name": "micro-web",
+  "version": "0.0.1",
+  "description": "micro front-end project based on qiankun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiankun",
+    "micro-web"
+  ],
+  "author": "tim760255458",
+  "license": "ISC"
+}
